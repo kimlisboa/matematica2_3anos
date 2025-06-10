@@ -1,2 +1,0 @@
-# matematica2_3anos
-esta pasta é para sites de programação
